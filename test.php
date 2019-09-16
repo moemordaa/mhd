@@ -1,5 +1,5 @@
 <head>
-    <meta>
+    <meta charsetutf-8>
 </head>
 
 <body>
