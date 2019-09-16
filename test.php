@@ -1,4 +1,6 @@
-<head></head>
+<head>
+    <meta>
+</head>
 
 <body>
     <div>
